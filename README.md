@@ -3,11 +3,11 @@
 **Melbourne, Australia | RMIT University**  
 **Smart Farming • Data Engineering • Backend Development**
 
-Hi! I’m **Elizabeth**, a software engineering student interested in  
-**data engineering, backend systems, and smart farming analytics**.
+---
 
-I enjoy building structured, scalable systems — from clean APIs to ETL pipelines —  
-and I’m currently working on projects that combine my tech skills with my strong domain background in **dairy science and agriculture**.
+Hi! I’m **Elizabeth**, a software engineering student interested in **data engineering, backend systems, and smart farming analytics**.
+
+I enjoy building structured, scalable systems — from clean APIs to ETL pipelines —  and I’m currently working on projects that combine my tech skills with my strong domain background in **dairy science and agriculture**.
 
 ---
 
